@@ -1,2 +1,2 @@
-# Android-7.0-backup-rom-for-vmos-by-me
+# Android-7.0-backup-rom-for-vmos-by-me warning this Android is not English a ru ua
 Android .zip https://drive.google.com/file/d/1-LMgwmxvP5nZTs7qcOHBiIUkaYYvMvXA/view?usp=drivesdk Warning for install this you need have vmos pro .apk install vmos with .apk and As you ask a beginner or a novice, click no novice, go out of the download .zip in code and create folder named vmospro in vmospro create backup named folder move android.zip to vmospro to backup open vmospro click + click 3 points and restone vm click android.zip and please wait... To load this android
